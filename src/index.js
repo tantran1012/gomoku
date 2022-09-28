@@ -110,7 +110,6 @@ class Game extends React.Component {
                     <button className="button-81" onClick={() => this.jumpTo(move)}>
                         {desc}
                     </button>
-                    {console.log(this.state.stepNumber)}
                     <span className={step.isX + " historyStep"}>{step.isX} ({step.x}, {step.y})</span>
                 </li>
             );
