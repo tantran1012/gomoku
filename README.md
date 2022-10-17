@@ -1,7 +1,7 @@
 
 # Gomoku
 
-Game caro Việt Nam (chỉnh sửa từ [tic-tac-toe React tutorial](https://vi.reactjs.org/tutorial/tutorial.html))
+Game caro Việt Nam (chỉnh sửa từ [tic-tac-toe React tutorial](https://reactjs.org/tutorial/tutorial.html))
 ## Demo
 
 [Gomoku online](https://tantran1012.github.io/gomoku/)
